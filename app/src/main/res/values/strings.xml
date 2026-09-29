@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Course</string>
+
+    <string name="tab_home">Home</string>
+    <string name="tab_materi">Materi</string>
+    <string name="tab_quiz">Quiz</string>
+
+    <string name="home_title">Kelas Praktikum Pemrograman Perangkat Bergerak</string>
+
+    <string name="home_description">
+        Kelas ini mempelajari pengembangan aplikasi Android menggunakan Kotlin, mulai dari layout, activity, fragment, navigasi, hingga pengelolaan komponen antarmuka.
+    </string>
+
+    <string name="button_see_material">Lihat Materi</string>
+
+    <string name="material_title">Materi yang Sudah Dipelajari</string>
+    <string name="material_one">1. Layout dan View Binding</string>
+    <string name="material_two">2. Intent dan Activity</string>
+    <string name="material_three">3. Spinner, Date dan Time Picker</string>
+    <string name="material_four">4. Dialog pada Android</string>
+    <string name="material_five">5. Options Menu dan TabLayout</string>
+
+    <string name="quiz_title">Quiz Belum Dilaksanakan</string>
+
+    <string name="quiz_description">
+        Informasi dan soal quiz akan ditampilkan setelah quiz tersedia.
+    </string>
+
+    <string name="quiz_unavailable">Belum Tersedia</string>
+
+    <string name="image_course_description">
+        Ilustrasi kelas praktikum Android
+    </string>
+
+    <string name="image_quiz_description">
+        Ilustrasi quiz
+    </string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="course_primary">#6750A4</color>
+    <color name="course_primary_pressed">#4F378B</color>
+    <color name="course_background">#F9F7FF</color>
+    <color name="course_text">#25232A</color>
+    <color name="course_disabled">#A9A4B0</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>

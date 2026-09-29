@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style
+        name="Base.Theme.MyCourse"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">
+            @color/course_primary
+        </item>
+
+        <item name="colorOnPrimary">
+            @color/white
+        </item>
+
+        <item name="android:statusBarColor">
+            @color/course_primary_pressed
+        </item>
+
+    </style>
+
+    <style
+        name="Base.Theme.MyCourse.WithActionBar"
+        parent="Theme.Material3.DayNight">
+
+        <item name="colorPrimary">
+            @color/course_primary
+        </item>
+
+        <item name="colorOnPrimary">
+            @color/white
+        </item>
+
+        <item name="android:statusBarColor">
+            @color/course_primary_pressed
+        </item>
+
+    </style>
+
+    <style
+        name="Theme.MyCourse"
+        parent="Base.Theme.MyCourse" />
+
+    <style
+        name="Theme.MyCourse.WithActionBar"
+        parent="Base.Theme.MyCourse.WithActionBar" />
+
+</resources>
